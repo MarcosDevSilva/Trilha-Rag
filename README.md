@@ -14,7 +14,7 @@
 <details>
     <summary><strong>⚠ Escolher e preparar as cidades</strong></summary><br />
 
-    1. Escolher 5 cidades   <span> OK </span>
+    1. Escolher 5 cidades  ## OK
     2. Setar cidade principal  ## Ok
     3. criat  sistemas de transportes entre cidade ## OK
 </details>
