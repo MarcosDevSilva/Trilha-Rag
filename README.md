@@ -1,8 +1,8 @@
-# Rag Pirata
+# Rag Pirata 
 
 # Skills
 
-<details>
+<details> 
     <summary><strong>⚠ Setar itens e magias q serão usadas neles</strong></summary><br />
 
     1. Escolher item
@@ -14,7 +14,7 @@
 <details>
     <summary><strong>⚠ Escolher e preparar as cidades</strong></summary><br />
 
-    1. Escolher 5 cidades  ## OK
+    1. Escolher 5 cidades   {c:red}OK.{/c}
     2. Setar cidade principal  ## Ok
     3. criat  sistemas de transportes entre cidade ## OK
 </details>
